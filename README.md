@@ -1,4 +1,4 @@
-# <a href="https://github.com/kanglaxnuan/pcrtestbot" target="_blank">Simplified ES6 Order Bot</a>
+# <a href="https://github.com/rhildred/pcrtestbot" target="_blank">Simplified ES6 Order Bot</a>
 ## ... with Jasmine tests
 
 I got the user interface for the web from a student of mine, Pat Wilken.
